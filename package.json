@@ -1,11 +1,16 @@
 {
-  "name": "test",
+  "name": "krishna_result",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
+    
   },
-  "author": "",
+  "author": "Krisna",
   "license": "ISC",
-  "description": ""
+  "description": "Hasil Exercise Krisna",
+  "keywords": [
+    "Exercise",
+    "variable"
+  ]
 }
